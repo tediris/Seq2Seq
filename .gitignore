@@ -1,0 +1,9 @@
+/dialog_corpus/movie/*
+/dialog_corpus/*.txt
+/download/dwr/*
+/data/squad/*
+/log/*
+
+*.npz
+*.DS_Store
+*.pyc
